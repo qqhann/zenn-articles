@@ -1,2 +1,7 @@
 # zenn-docs
-Zenn articles by qqhann
+
+Zenn articles
+
+```
+npx zenn new:article
+```
