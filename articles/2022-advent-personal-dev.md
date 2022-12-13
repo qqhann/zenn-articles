@@ -3,7 +3,7 @@ title: "【個人開発】2022年に作ったもの振り返り"
 emoji: "🦾"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["個人開発"]
-published: false
+published: true
 ---
 
 この記事は[個人開発 Advent Calendar 2022](https://qiita.com/advent-calendar/2022/individual-developers) の 13 日目の記事です。
